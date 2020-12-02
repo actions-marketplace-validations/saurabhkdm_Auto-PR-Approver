@@ -1,6 +1,6 @@
 name: 'Automatic pull request review'
-description: '👍 Github action to automate pull requests'
-author: 'Andrew Musgrave <andrewdmusgrave@gmail.com>'
+description: 'GH action to pull requests only for dev'
+author: 'saurabhk>'
 runs:
   using: 'node12'
   main: 'dist/index.js'
