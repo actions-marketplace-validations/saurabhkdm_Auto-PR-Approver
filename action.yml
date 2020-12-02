@@ -1,4 +1,4 @@
-name: 'Automatic pull request review'
+name: 'DEV PR REVEIEW'
 description: 'GH action to pull requests only for dev'
 author: 'saurabhk>'
 runs:
